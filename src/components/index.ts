@@ -1,1 +1,1 @@
-export * from "./CounterComponent";
+export * from './CounterComponent';

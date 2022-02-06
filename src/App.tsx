@@ -1,7 +1,7 @@
-import { CounterComponent } from "./components";
-import "./styles.css";
-import IMAGE from "./logo512.png";
-import LOGO from "./logo.svg";
+import { CounterComponent } from './components';
+import './styles.css';
+import IMAGE from './logo512.png';
+import LOGO from './logo.svg';
 
 export const App = () => {
   return (
